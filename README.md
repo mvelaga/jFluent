@@ -1,4 +1,4 @@
 jFluent
 =======
 
-Simple interface to provide helper methods on native objects of javascript and more
+Library that provides helper methods on native objects of javascript and more
